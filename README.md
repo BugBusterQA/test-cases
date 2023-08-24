@@ -1,4 +1,4 @@
-# test-cases
+# Test-cases
 
 ## Test-case Templates
 
