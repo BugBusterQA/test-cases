@@ -7,5 +7,6 @@
 
 ## Test-cases from my projects
 
-1. [Тест-кейсы для test-travel.swiss](https://docs.google.com/spreadsheets/d/1ZMDywCHtrpppqAu3-pvKa5Q5HbPm8V0wrqS7cjwIwjg/edit?usp=sharing) 
+1. [Тест-кейсы для test-travel.swiss](https://docs.google.com/spreadsheets/d/1ZMDywCHtrpppqAu3-pvKa5Q5HbPm8V0wrqS7cjwIwjg/edit?usp=sharing)
+2. [Test-case Login](https://docs.google.com/spreadsheets/d/115Ve4-0qcS-VzQwyakYJF0Q86pD55d5n26owSeCueDs/edit?usp=sharing)
 
