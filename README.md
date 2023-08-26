@@ -11,6 +11,8 @@
 
 1. [Тест-кейсы на проверку загрузки файла](https://docs.google.com/spreadsheets/d/1AJ9FDH4DzJpnMzOWVg58cUVZbbdd6VFOmwmiay0iWMY/edit?usp=sharing)
 2. [File upload test cases](https://docs.google.com/spreadsheets/d/1uRSZs6PMRajAwbpUbIVIcp9v7b7qX4tAy84lod2H5u4/edit?usp=sharing)
-3. [Тест-кейсы для test-travel.swiss](https://docs.google.com/spreadsheets/d/1ZMDywCHtrpppqAu3-pvKa5Q5HbPm8V0wrqS7cjwIwjg/edit?usp=sharing)
-4. [Login Page Test-cases](https://docs.google.com/spreadsheets/d/115Ve4-0qcS-VzQwyakYJF0Q86pD55d5n26owSeCueDs/edit?usp=sharing)
+3. [Тест-кейс отправки сообщения через форму обратной связи](https://docs.google.com/spreadsheets/d/1YqdqWMQYGz_8V03hUFypEnsxo0jPOgkfQfHfxu7cPx0/edit?usp=sharing)
+4. [Test case of sending a message via the feedback form](https://docs.google.com/spreadsheets/d/1ivnA_HaN5zzsrTIIOm-7XVSs-PAIKiGgvDaixBRCphY/edit?usp=sharing)
+5. [Тест-кейсы для test-travel.swiss](https://docs.google.com/spreadsheets/d/1ZMDywCHtrpppqAu3-pvKa5Q5HbPm8V0wrqS7cjwIwjg/edit?usp=sharing)
+6. [Login Page Test-cases](https://docs.google.com/spreadsheets/d/115Ve4-0qcS-VzQwyakYJF0Q86pD55d5n26owSeCueDs/edit?usp=sharing)
 
